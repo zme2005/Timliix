@@ -547,9 +547,10 @@ footer p .logo:hover {
     }
 
     body {
-        overflow: hidden;
+        overflow-x: hidden;
     }
 }
 
 
 /*end footer*/
+
