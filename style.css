@@ -545,6 +545,11 @@ footer p .logo:hover {
         width: 400px;
         height: 700px;
     }
+
+    body {
+        overflow: hidden;
+    }
 }
+
 
 /*end footer*/
